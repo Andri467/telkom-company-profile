@@ -1,1 +1,1 @@
-Repository latihan Git pertama saya.
+Repository latihan Git pertama saya.# telkom-company-profile
