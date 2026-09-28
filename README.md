@@ -1,1 +1,2 @@
-Repository latihan Git pertama saya.# telkom-company-profile
+Repository latihan Git pertama saya.
+“Target: memahami staging dan commit.”
